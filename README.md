@@ -5,7 +5,8 @@
 - Run each cell by hitting 'Shift + Enter'
 
 # What I learned
-- use of pandas library to handle data sets such as isna(), sum(), loc[], groupby(), describe(), merge()
+- Use of pandas library to handle data sets such as isna(), sum(), loc[], groupby(), describe(), merge()
+- General purpose of data cleaning
 
 # Reference
 - How to Do Data Cleaning (step-by-step tutorial on real-life dataset) https://www.youtube.com/watch?v=qxpKCBV60U4
