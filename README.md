@@ -1,5 +1,6 @@
 # Relevant tools, techniques and frameworks
 - Jupyter notebook
+- Data Cleaning
 - Pandas
 
 
